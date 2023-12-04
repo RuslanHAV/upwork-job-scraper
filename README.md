@@ -8,7 +8,7 @@ A web scraping project with python using requests &amp; bs4 modules. You can sea
 #### Installation
 1. Clone the git repostory using the following command. 
     ```cmd
-    git clone https://github.com/SudhamJayanthi/upwork-job-scraper.git 
+    git clone https://github.com/RuslanHAV/upwork-job-scraper.git 
     ```
 
 2. Open the terminal and navigate to the project directory
@@ -32,14 +32,10 @@ Run the application
 ### Contributing
 - Open a issue if you have found any bugs or have any feature requests
 - Open a PR if you would like contribute any new features or close existing issues
-- Check out [issues](https://github.com/sudhamjayanthi/upwork-job-scraper/issues) page for roadmap features to contribute on**
+- Check out [issues](https://github.com/RuslanHAV/upwork-job-scraper/issues) page for roadmap features to contribute on**
 
 Feel free to play around and try to submit a pull request even if you are newcomer or just started learning python.
 
 No problem if you ran into errors or have been able to do only half. Be proud atleast you tried!
 
 I'll be happy to assist you and teach you to help you complete it anytime :)
-
-### Contact me
-- [DM me on Twitter](https://www.twitter.com/sudhamjayanthi)
-- [Email me (hey@sudham.tk) ](mailto:hey@sudham.tk)
